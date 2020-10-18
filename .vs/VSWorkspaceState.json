@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\packages\\barryvdh",
+    "\\public\\packages\\barryvdh\\elfinder",
+    "\\public\\packages\\barryvdh\\elfinder\\js",
+    "\\resources\\js",
+    "\\resources\\views",
+    "\\resources\\views\\auth",
+    "\\resources\\views\\layouts"
+  ],
+  "SelectedNode": "\\resources",
+  "PreviewInSolutionExplorer": false
+}
